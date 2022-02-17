@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 2
+    },
+    "auditLog": "/Users/audronebudryte/juiceshop/logs/.audit.json",
+    "files": [
+        {
+            "date": 1645132244596,
+            "name": "/Users/audronebudryte/juiceshop/logs/access.log.2022-02-17",
+            "hash": "c890674c2bc4dd293fa0b05bd55e44aa"
+        }
+    ]
+}
